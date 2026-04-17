@@ -1,7 +1,15 @@
-"simge": [
-  {
-    "kaynak": "ikon.png",
-    "boyutlar": "512x512",
-    "tip": "resim/png"
-  }
-]
+{
+  "name": "Sağlık Tesisi Değerlendirmesi",
+  "short_name": "STDPANEL",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#eef3fb",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "ikon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
